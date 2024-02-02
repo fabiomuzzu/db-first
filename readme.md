@@ -7,24 +7,17 @@ Buon lavoro e buon weekend!
 
 Svolgimento:
 1) Creo layout tabella contente i seguenti dati di auto usate:
-    ID
-    -N.Telaio
-
+    ID (Primary_Key)
+    -N.Telaio (indice)
     -Targa (indice)
     -Marca (indice)
     -Modello (indice)
     -Anno immatricolazione
-    -Colore
     -Cilindrata
     -Alimentazione
     -Km
-    -Cambio
     -Prezzo
-    -Interni
-    -Pneumatici
-    -Propietari
-    -Design carrozzeria
+    -Proprietari
     -N.Porte
     -Provenienza
-    -Garanzia
 
